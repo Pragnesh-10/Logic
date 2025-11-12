@@ -1,4 +1,4 @@
-# Reversing a word
+# Reversing a word without using slicing
 word = input("Enter a word: ")
 print(word)
 rev = ""
